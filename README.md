@@ -3,7 +3,7 @@
 ## Usage
 
 1. Clone the repo
-2. Open `sanity.json and change `projectId` and `dataset` to a project you're member of. If you haven't gotten started with Sanity yet, head over to https://www.sanity.io/docs/getting-started-with-sanity-cli
+2. Open `sanity.json` and change `projectId` and `dataset` to a project you're member of. If you haven't gotten started with Sanity yet, head over to https://www.sanity.io/docs/getting-started-with-sanity-cli
 
 ```
 "api": {
